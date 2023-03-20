@@ -1,22 +1,8 @@
 # Crypt
-<br />
-
-
-
-
-
-
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  <a href="Crypt/client/images/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Best-Transaction-Platform</h3>
-
-  <p align="center">
-    <br />
+ <p align="center">
   </p>
 </div>
 
